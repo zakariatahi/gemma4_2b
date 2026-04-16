@@ -4,7 +4,7 @@
 
 Before starting, make sure you have:
 
-* Python 3.8+
+* Python 
 * Ollama installed on your system
 
 ---
@@ -48,13 +48,6 @@ Activate it:
 venv\Scripts\activate
 ```
 
-* On macOS/Linux:
-
-```bash
-source venv/bin/activate
-```
-
----
 
 ### 4. Install Dependencies
 
