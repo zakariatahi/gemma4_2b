@@ -1,0 +1,8 @@
+duckduckgo-search
+faiss-cpu
+langchain
+langchain-classic
+langchain-community
+langchain-ollama
+openpyxl
+requests
